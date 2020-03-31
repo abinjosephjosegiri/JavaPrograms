@@ -1,4 +1,4 @@
-
+                                      
 // Java program to demonstrate how exception is thrown. 
 class ThrowsExecp{ 
       
